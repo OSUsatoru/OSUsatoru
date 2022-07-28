@@ -1,18 +1,18 @@
 
 
 ## Recent Activity
----
+
 <!--START_SECTION:activity-->
 1. Merged PR [#219](https://github.com/microsoft/vscode-wiki/pull/219) in [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki)
 2. Issue [#890](https://github.com/microsoft/vscode-loc/issues/890) in [microsoft/vscode-loc](https://github.com/microsoft/vscode-loc)
 
 ## Programs
----
+
 * ### [Algorithm codes in C and Rust](https://github.com/OSUsatoru/cpp_codes_alg)
 * ### [Operating System codes](https://github.com/OSUsatoru/OperatingSystem_codes)
 
 ## Info
----
+
 E-mail: yamamsat@oregonstate.edu</br>
 Discord: satoru#2984
 
