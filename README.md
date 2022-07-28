@@ -10,8 +10,8 @@
 
 * ### [Algorithm codes in C and Rust](https://github.com/OSUsatoru/cpp_codes_alg)
 * ### [Operating System codes](https://github.com/OSUsatoru/OperatingSystem_codes)
-
-## Info
+* ### [AI algorithm codes](https://github.com/OSUsatoru/IntroAI/tree/master/SentimentAnalysis)
+## Contact Info
 
 E-mail: yamamsat@oregonstate.edu</br>
 Discord: satoru#2984
