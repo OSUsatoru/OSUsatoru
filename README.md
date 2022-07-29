@@ -12,7 +12,7 @@
 * ### [Operating System codes in C and Rust](https://github.com/OSUsatoru/OperatingSystem_codes)
 * ### [AI algorithm codes in C++](https://github.com/OSUsatoru/IntroAI)
 * ### [Fundamental Programming language in Haskell](https://github.com/OSUsatoru/FundamentalProgramming)
-
+* ### [Parallel Programming in C/C++](https://github.com/OSUsatoru/ParallelProgramming)
 
 ## Contact Info
 
