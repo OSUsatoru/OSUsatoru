@@ -8,9 +8,12 @@
 
 ## Programs
 
-* ### [Algorithm codes in C and Rust](https://github.com/OSUsatoru/cpp_codes_alg)
-* ### [Operating System codes](https://github.com/OSUsatoru/OperatingSystem_codes)
-* ### [AI algorithm codes](https://github.com/OSUsatoru/IntroAI/tree/master/SentimentAnalysis)
+* ### [Algorithm codes in C++](https://github.com/OSUsatoru/cpp_codes_alg)
+* ### [Operating System codes in C and Rust](https://github.com/OSUsatoru/OperatingSystem_codes)
+* ### [AI algorithm codes in C++](https://github.com/OSUsatoru/IntroAI)
+* ### [Fundamental Programming language in Haskell](https://github.com/OSUsatoru/FundamentalProgramming)
+
+
 ## Contact Info
 
 E-mail: yamamsat@oregonstate.edu</br>
