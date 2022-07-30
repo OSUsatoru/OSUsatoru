@@ -16,7 +16,8 @@
 * ### [Movile Software in Kotlin](https://github.com/OSUsatoru/Mobile-Software-Development)
 * ### [Cloud Application Development in JavaScript](https://github.com/OSUsatoru/Cloud-Applicatoin-Development)
 
-
+coming codes: \
+security graphic computation MASM gamedev
 ## Contact Info
 
 E-mail: yamamsat@oregonstate.edu</br>
