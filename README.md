@@ -13,6 +13,9 @@
 * ### [AI algorithm codes in C++](https://github.com/OSUsatoru/IntroAI)
 * ### [Fundamental Programming language in Haskell](https://github.com/OSUsatoru/FundamentalProgramming)
 * ### [Parallel Programming in C/C++](https://github.com/OSUsatoru/ParallelProgramming)
+* ### [Movile Software in Kotlin](https://github.com/OSUsatoru/Mobile-Software-Development)
+* ### [Cloud Application Development in JavaScript](https://github.com/OSUsatoru/Cloud-Applicatoin-Development)
+
 
 ## Contact Info
 
