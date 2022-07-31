@@ -17,7 +17,7 @@
 * ### [Cloud Application Development in JavaScript](https://github.com/OSUsatoru/Cloud-Applicatoin-Development)
 
 coming codes: \
-security graphic computation MASM gamedev
+security graphic computation MASM gamedev os2
 ## Contact Info
 
 E-mail: yamamsat@oregonstate.edu</br>
