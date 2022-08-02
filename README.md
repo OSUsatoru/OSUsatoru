@@ -16,8 +16,8 @@
 * ### [Movile Software in Kotlin](https://github.com/OSUsatoru/Mobile-Software-Development)
 * ### [Cloud Application Development in JavaScript](https://github.com/OSUsatoru/Cloud-Applicatoin-Development)
 * ### [Assembly language in MASM](https://github.com/OSUsatoru/Assembly-Language-MASM)
-
-
+* ### [Database Algorithm in C++](https://github.com/OSUsatoru/DatabaseAlgorithm)
+* ### [Computer Graphics in C++](https://github.com/OSUsatoru/Computer-Graphics)
 ## Contact Info
 
 E-mail: yamamsat@oregonstate.edu</br>
