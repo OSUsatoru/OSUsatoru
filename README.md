@@ -25,7 +25,6 @@ Discord: satoru#2984
 
 coming codes:
 * security
-* graphic
 * computation
 * gamedev
 * os2
