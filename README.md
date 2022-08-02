@@ -18,13 +18,17 @@
 * ### [Assembly language in MASM](https://github.com/OSUsatoru/Assembly-Language-MASM)
 
 
-
-coming codes: \
-security/graphic/computation/MASM/gamedev/os2
 ## Contact Info
 
 E-mail: yamamsat@oregonstate.edu</br>
 Discord: satoru#2984
+
+coming codes:
+* security
+* graphic
+* computation
+* gamedev
+* os2
 
 <!--END_SECTION:activity-->
 
