@@ -27,8 +27,7 @@ E-mail: yamamsat@oregonstate.edu</br>
 Discord: satoru#2984
 
 coming codes:
-* security
-* computation
+
 * gamedev
 * os2
 
