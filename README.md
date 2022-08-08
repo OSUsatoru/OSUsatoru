@@ -15,7 +15,7 @@
 * ### [Parallel Programming in C/C++](https://github.com/OSUsatoru/ParallelProgramming)
 * ### [Operating System codes in C and Rust](https://github.com/OSUsatoru/OperatingSystem_codes)
 * ### [Security Programming in C and Pyhon](https://github.com/OSUsatoru/Security-Programming)
-* ### [Simple Network projects in Python](https://github.com/OSUsatoru/Simple-networkst)
+* ### [Simple Network projects in Python](https://github.com/OSUsatoru/Simple-networks)
 * ### [Fundamental Programming language in Haskell](https://github.com/OSUsatoru/FundamentalProgramming)
 * ### [Assembly language in MASM](https://github.com/OSUsatoru/Assembly-Language-MASM)
 * ### [Movile Software in Kotlin](https://github.com/OSUsatoru/Mobile-Software-Development)
